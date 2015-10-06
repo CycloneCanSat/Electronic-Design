@@ -1,0 +1,64 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\Ashwin\Desktop\electronics_design\design\pcb_b (PCB - Design Rule Check Report).txt
+Report Written:     Saturday, October 03, 2015
+Design Path:        C:\Users\Ashwin\Desktop\electronics_design\design\pcb_b.pcb
+Design Title:       
+Created:            30/09/2014 21:49:37
+Last Saved:         03/10/2015 12:56:06
+Editing Time:       2259 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        No
+Pads and Vias No
+Shapes        No
+Text          No
+Board         No
+Drills        No
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.
