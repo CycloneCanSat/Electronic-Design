@@ -1,21 +1,85 @@
 Design Rule Check Report
 ------------------------
 
-Report File:        C:\Users\Ashwin\Desktop\electronics_design\design\pcb_b (PCB - Design Rule Check Report).txt
-Report Written:     Saturday, October 03, 2015
-Design Path:        C:\Users\Ashwin\Desktop\electronics_design\design\pcb_b.pcb
+Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b (PCB - Design Rule Check Report).txt
+Report Written:     Saturday, October 10, 2015
+Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b.pcb
 Design Title:       
 Created:            30/09/2014 21:49:37
-Last Saved:         03/10/2015 12:56:06
-Editing Time:       2259 min
+Last Saved:         10/10/2015 14:18:39
+Editing Time:       4256 min
 Units:              mm (precision 2)
 
 
 Results
 =======
 
+Track to Drill Hole error (T-D) at (45.74 23.62) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (13.50 25.65) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Pad to Pad Error (P-P) between (41.32 23.11) and (41.32 23.05) on Layer "[All]".
+    Error between Pad (Net 'N0114') and Pad, Gap is 0.06 needs to be 0.13.
+Track to Pad error (T-P) at (41.24 21.53) on layer "Top Copper".
+    Error between Pad and Track (Net 'N0114'), Gap is 0.00 needs to be 0.13.
+Track to Drill Hole error (T-D) at (20.35 27.61) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (21.90 27.61) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Pad Error (T-P) between (47.06 22.21) and (46.98 22.01) on Layer "Bottom Copper".
+    Error between Pad (Net 'N0180') and Track (Net 'N0128'), Gap is 0.02 needs to be 0.13.
+Pad to Via error (P-V) at (39.36 19.88) on layer "[Top]".
+    Via in pad Component Pad U1.11 (Net 'N0128').
+Pad to Via error (P-V) at (46.98 19.85) on layer "[Top]".
+    Via in pad Component Pad U1.14 (Net 'N0128').
+Pad to Via error (P-V) at (36.82 4.61) on layer "[Top]".
+    Via in pad Component Pad U1.24 (Net 'N0186').
+Pad to Via error (P-V) at (34.28 4.61) on layer "[Top]".
+    Via in pad Component Pad U1.25 (Net 'N0160').
+Pad to Via error (P-V) at (29.20 4.61) on layer "[Top]".
+    Via in pad Component Pad U1.27 (Net 'N0178').
+Pad to Via error (P-V) at (24.12 4.61) on layer "[Top]".
+    Via in pad Component Pad U1.29 (Net 'N0254').
+Pad to Via error (P-V) at (21.58 4.61) on layer "[Top]".
+    Via in pad Component Pad U1.30 (Net 'N0133').
+Pad to Via error (P-V) at (19.04 4.61) on layer "[Top]".
+    Via in pad Component Pad U1.31 (Net 'N0180').
+Pad to Via error (P-V) at (16.50 4.61) on layer "[Top]".
+    Via in pad Component Pad U1.32 (Net 'N0117').
+Pad to Via error (P-V) at (13.96 4.61) on layer "[Top]".
+    Via in pad Component Pad U1.33 (Net 'N0180').
+Pad to Via error (P-V) at (29.16 21.95) on layer "[Bottom]".
+    Via in pad Component Pad U3.5 (Net 'N0171').
+Track to Via Error (T-V) between (28.75 22.70) and (28.75 22.41) on Layer "Top Copper".
+    Error between Track (Net 'N0114') and Via (Net 'N0171'), Gap is 0.10 needs to be 0.13.
+Track to Via Error (T-V) between (32.51 22.70) and (32.51 22.41) on Layer "Top Copper".
+    Error between Track (Net 'N0114') and Via (Net 'N0173'), Gap is 0.09 needs to be 0.13.
+Track to Drill Hole error (T-D) at (28.75 22.00) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (32.51 22.01) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (26.51 21.92) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (43.62 25.99) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (19.06 9.34) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (27.59 7.21) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (19.04 18.13) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (21.58 25.99) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (19.12 22.73) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (24.00 27.67) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (13.96 4.61) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (30.53 7.09) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
 
-No errors found
+Number of errors found : 32
 
 
 Settings
@@ -26,12 +90,12 @@ Spacings
 
 =========
 
-Tracks        No
-Pads and Vias No
-Shapes        No
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
 Text          No
-Board         No
-Drills        No
+Board         Yes
+Drills        Yes
 Components    No
 
 
@@ -39,16 +103,16 @@ Manufacturing
 
 ==============
 
-Drill Breakout                  No
-Drill Backoff                   No
+Drill Breakout                  Yes
+Drill Backoff                   Yes
 Silkscreen Overlap              No
 Copper Text In Board            No
 Min Track Width                 No
-Min Annular Ring                No
-Min Paste Size                  No
-Vias In Pads                    No
-Unplated Vias                   No
-Unplated Pads With Inner Tracks No
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
 
 
 Nets
