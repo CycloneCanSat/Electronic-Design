@@ -6,8 +6,8 @@ Report Written:     Saturday, October 10, 2015
 Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b.pcb
 Design Title:       
 Created:            30/09/2014 21:49:37
-Last Saved:         10/10/2015 14:14:11
-Editing Time:       4248 min
+Last Saved:         10/10/2015 17:58:41
+Editing Time:       4478 min
 Units:              mm (precision 2)
 
 
