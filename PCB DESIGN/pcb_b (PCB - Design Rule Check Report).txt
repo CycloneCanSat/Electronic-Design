@@ -2,12 +2,12 @@ Design Rule Check Report
 ------------------------
 
 Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b (PCB - Design Rule Check Report).txt
-Report Written:     Saturday, October 10, 2015
+Report Written:     Sunday, October 11, 2015
 Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b.pcb
 Design Title:       
 Created:            30/09/2014 21:49:37
-Last Saved:         10/10/2015 20:06:53
-Editing Time:       4568 min
+Last Saved:         11/10/2015 13:44:58
+Editing Time:       4814 min
 Units:              mm (precision 2)
 
 
@@ -29,7 +29,7 @@ Spacings
 Tracks        Yes
 Pads and Vias Yes
 Shapes        Yes
-Text          No
+Text          Yes
 Board         Yes
 Drills        Yes
 Components    No
