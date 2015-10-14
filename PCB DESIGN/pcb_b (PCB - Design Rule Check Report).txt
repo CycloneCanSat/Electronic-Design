@@ -2,12 +2,12 @@ Design Rule Check Report
 ------------------------
 
 Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b (PCB - Design Rule Check Report).txt
-Report Written:     Sunday, October 11, 2015
+Report Written:     Tuesday, October 13, 2015
 Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b.pcb
 Design Title:       
 Created:            30/09/2014 21:49:37
-Last Saved:         11/10/2015 13:44:58
-Editing Time:       4814 min
+Last Saved:         12/10/2015 00:04:28
+Editing Time:       5437 min
 Units:              mm (precision 2)
 
 
