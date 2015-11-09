@@ -2,12 +2,12 @@ PLOT REPORT
 -----------
 
 Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b (PCB - PLOT REPORT).txt
-Report Written:     Wednesday, October 14, 2015
+Report Written:     Saturday, November 07, 2015
 Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b.pcb
 Design Title:       
-Created:            30/09/2014 21:49:37
-Last Saved:         14/10/2015 10:30:10
-Editing Time:       5479 min
+Created:            30/09/2014 20:49:37
+Last Saved:         14/10/2015 09:30:10
+Editing Time:       5477 min
 Units:              mm (precision 2)
 
 
@@ -40,7 +40,7 @@ Plots Output
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Top Silkscreen.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Silkscreen.gbr
 
     Layers:
     ------------------
@@ -56,7 +56,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Top Silk
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Top Copper.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Copper.gbr
 
     Layers:
     ------------------
@@ -86,7 +86,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Top Copp
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Top Copper (Resist).gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Copper (Resist).gbr
 
     Layers:
     ------------------
@@ -106,7 +106,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Top Copp
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Bottom Copper.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Copper.gbr
 
     Layers:
     ------------------
@@ -138,7 +138,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Bottom C
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Bottom Copper (Resist).gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Copper (Resist).gbr
 
     Layers:
     ------------------
@@ -160,7 +160,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Bottom C
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Bottom Silkscreen.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Silkscreen.gbr
 
     Layers:
     ---------------------
@@ -179,7 +179,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Bottom S
 NC Drill Output
 ===============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Drill Data - [Through Hole].drl
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Drill Data - [Through Hole].drl
 
     Output:
     ---------------------------
@@ -198,7 +198,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Drill Da
     Total              61
     ------------------------------------
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Drill Data - [Through Hole] (Unplated).drl
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Drill Data - [Through Hole] (Unplated).drl
 
     Output:
     -----------------------------
@@ -217,7 +217,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Drill Da
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b - Drill Ident Drawing - [Through Hole].gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Drill Ident Drawing - [Through Hole].gbr
 
     Layers:
     ------------------
