@@ -2,12 +2,12 @@ PLOT REPORT
 -----------
 
 Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b (PCB - PLOT REPORT).txt
-Report Written:     Saturday, November 07, 2015
+Report Written:     Wednesday, November 11, 2015
 Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b.pcb
 Design Title:       
 Created:            30/09/2014 20:49:37
-Last Saved:         14/10/2015 09:30:10
-Editing Time:       5477 min
+Last Saved:         10/11/2015 21:55:34
+Editing Time:       5704 min
 Units:              mm (precision 2)
 
 
@@ -22,6 +22,9 @@ Gerber Settings
     G01 assumed throughout.
     Line termination <*> <CR> <LF>.
     3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
 
 
 Drill Settings
@@ -40,11 +43,24 @@ Plots Output
 Gerber Output
 =============
 
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
 C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Silkscreen.gbr
 
     Layers:
     ------------------
     Top Silkscreen
+    Board Outlines
 
     D-Code Shape  (thou)
     -----------------------
@@ -59,13 +75,11 @@ Gerber Output
 C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Copper.gbr
 
     Layers:
-    ------------------
+    --------------
     Top Copper
-    Board Outlines
 
     D-Code Shape  (thou)
     ----------------------------------------------
-    D11    Round 5.00
     D14    Round 60.00
     D15    Round 60.00
     D16    Rectangle 39.37 X 59.06
@@ -89,13 +103,11 @@ Gerber Output
 C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Copper (Resist).gbr
 
     Layers:
-    ------------------
+    --------------
     Top Copper
-    Board Outlines
 
     D-Code Shape  (thou)
     ----------------------------------------------
-    D11    Round 5.00
     D28    Round 70.00
     D29    Round 70.00
     D72    Rectangle 49.37 X 69.06
@@ -109,9 +121,8 @@ Gerber Output
 C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Copper.gbr
 
     Layers:
-    ------------------
+    -----------------
     Bottom Copper
-    Board Outlines
 
     D-Code Shape  (thou)
     ----------------------------------------------
@@ -141,13 +152,11 @@ Gerber Output
 C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Copper (Resist).gbr
 
     Layers:
-    ------------------
+    -----------------
     Bottom Copper
-    Board Outlines
 
     D-Code Shape  (thou)
     ----------------------------------------------
-    D11    Round 5.00
     D28    Round 70.00
     D74    Rectangle 41.50 X 57.24
     D75    Rectangle 41.50 X 57.24  Rotation 90
@@ -165,7 +174,6 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
     Layers:
     ---------------------
     Bottom Silkscreen
-    Board Outlines
 
     D-Code Shape  (thou)
     -----------------------
@@ -175,6 +183,19 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
     D13    Round 1.28
     D97    Round 3.00
     D98    Round 8.20
+
+Gerber Output
+=============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Documentation.gbr
+
+    Layers:
+    ------------------------
+    Bottom Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 6.00
 
 NC Drill Output
 ===============
