@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\PDB (PCB - Pour Copper Report).txt
+Report Written:     Friday, December 11, 2015
+Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\PDB.pcb
+Design Title:       
+Created:            11/12/2015 21:01:11
+Last Saved:         11/12/2015 21:17:50
+Editing Time:       24 min
+Units:              thou (precision 0)
+
+
+End Of Report.

@@ -1,0 +1,175 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\PowerDistributionBoard (PCB - PLOT REPORT).txt
+Report Written:     Friday, December 11, 2015
+Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\PowerDistributionBoard.pcb
+Design Title:       
+Created:            11/10/2015 21:43:00
+Last Saved:         11/10/2015 23:04:23
+Editing Time:       93 min
+Units:              mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\PowerDistributionBoard.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\GERBERS2\PowerDistributionBoard - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 1.00
+    D11    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\GERBERS2\PowerDistributionBoard - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D70    Round 15.00
+    D26    Round 50.00
+    D100   Round 118.11
+    D101   Rectangle 35.43 X 47.24  Rotation 90
+    D102   Rectangle 47.24 X 127.95
+
+Gerber Output
+=============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\GERBERS2\PowerDistributionBoard - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D103   Round 128.11
+    D104   Rectangle 45.43 X 57.24  Rotation 90
+    D105   Rectangle 57.24 X 137.95
+
+Gerber Output
+=============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\GERBERS2\PowerDistributionBoard - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D26    Round 50.00
+    D100   Round 118.11
+    D106   Round 19.69
+
+Gerber Output
+=============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\GERBERS2\PowerDistributionBoard - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D103   Round 128.11
+
+NC Drill Output
+===============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\GERBERS2\PowerDistributionBoard - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.07874 in 18    F
+    ------------------------------------
+    Total              18
+    ------------------------------------
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\GERBERS2\PowerDistributionBoard - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\GERBERS2\PowerDistributionBoard - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    79    Y      100  Round F
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D99    Round 100.00
+
+End Of Report.

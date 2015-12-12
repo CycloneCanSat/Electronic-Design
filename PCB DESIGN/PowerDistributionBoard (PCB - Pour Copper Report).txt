@@ -2,12 +2,12 @@ Pour Copper Report
 ------------------
 
 Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\PowerDistributionBoard (PCB - Pour Copper Report).txt
-Report Written:     Monday, October 12, 2015
+Report Written:     Friday, December 11, 2015
 Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\PowerDistributionBoard.pcb
 Design Title:       
-Created:            11/10/2015 22:43:00
-Last Saved:         11/10/2015 23:57:52
-Editing Time:       80 min
+Created:            11/10/2015 21:43:00
+Last Saved:         11/12/2015 20:58:09
+Editing Time:       97 min
 Units:              mm (precision 1)
 
 
