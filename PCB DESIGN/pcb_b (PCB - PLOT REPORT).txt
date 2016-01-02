@@ -2,12 +2,12 @@ PLOT REPORT
 -----------
 
 Report File:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b (PCB - PLOT REPORT).txt
-Report Written:     Wednesday, November 11, 2015
+Report Written:     Tuesday, December 29, 2015
 Design Path:        C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\pcb_b.pcb
 Design Title:       
 Created:            30/09/2014 20:49:37
-Last Saved:         10/11/2015 21:55:34
-Editing Time:       5704 min
+Last Saved:         29/12/2015 19:28:18
+Editing Time:       6221 min
 Units:              mm (precision 2)
 
 
@@ -43,7 +43,7 @@ Plots Output
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Documentation.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Top Documentation.gbr
 
     Layers:
     ---------------------
@@ -55,7 +55,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Silkscreen.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Top Silkscreen.gbr
 
     Layers:
     ------------------
@@ -72,20 +72,19 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Copper.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Top Copper.gbr
 
     Layers:
     --------------
     Top Copper
 
     D-Code Shape  (thou)
-    ----------------------------------------------
+    ---------------------------------
     D14    Round 60.00
     D15    Round 60.00
     D16    Rectangle 39.37 X 59.06
     D17    Rectangle 39.37 X 61.02
     D18    Rectangle 31.50 X 47.24
-    D19    Rectangle 31.50 X 47.24  Rotation 90
     D70    Round 15.00
     D71    Round 48.00
     D20    Round 32.00
@@ -100,25 +99,24 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Top Copper (Resist).gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Top Copper (Resist).gbr
 
     Layers:
     --------------
     Top Copper
 
     D-Code Shape  (thou)
-    ----------------------------------------------
+    ---------------------------------
     D28    Round 70.00
     D29    Round 70.00
     D72    Rectangle 49.37 X 69.06
     D73    Rectangle 49.37 X 71.02
     D74    Rectangle 41.50 X 57.24
-    D75    Rectangle 41.50 X 57.24  Rotation 90
 
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Copper.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Bottom Copper.gbr
 
     Layers:
     -----------------
@@ -149,7 +147,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Copper (Resist).gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Bottom Copper (Resist).gbr
 
     Layers:
     -----------------
@@ -169,7 +167,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Silkscreen.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Bottom Silkscreen.gbr
 
     Layers:
     ---------------------
@@ -187,7 +185,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Bottom Documentation.gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Bottom Documentation.gbr
 
     Layers:
     ------------------------
@@ -200,7 +198,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
 NC Drill Output
 ===============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Drill Data - [Through Hole].drl
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Drill Data - [Through Hole].drl
 
     Output:
     ---------------------------
@@ -214,12 +212,12 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
     T002  000.01969 in 5     C
     T003  000.02400 in 26    B
     T004  000.03200 in 1     E
-    T005  000.03500 in 27    A
+    T005  000.03500 in 32    A
     ------------------------------------
-    Total              61
+    Total              66
     ------------------------------------
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Drill Data - [Through Hole] (Unplated).drl
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Drill Data - [Through Hole] (Unplated).drl
 
     Output:
     -----------------------------
@@ -238,7 +236,7 @@ C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - 
 Gerber Output
 =============
 
-C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerbers\pcb_b - Drill Ident Drawing - [Through Hole].gbr
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Drill Ident Drawing - [Through Hole].gbr
 
     Layers:
     ------------------
@@ -260,5 +258,18 @@ Drill Ident Drawing
     -----------------------
     D11    Round 5.00
     D99    Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\Ashwin\Desktop\CYCLONE\Electronics - GitHub\PCB DESIGN\Gerber3\pcb_b - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
 
 End Of Report.
