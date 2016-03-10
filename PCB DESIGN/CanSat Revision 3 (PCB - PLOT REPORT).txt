@@ -1,0 +1,258 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\CanSat Revision 3 (PCB - PLOT REPORT).txt
+Report Written:     Tuesday, February 23, 2016
+Design Path:        C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\CanSat Revision 3.pcb
+Design Title:       
+Created:            30/09/2014 20:49:37
+Last Saved:         23/02/2016 00:17:19
+Editing Time:       6323 min
+Units:              mm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\CanSat Revision 3.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 1.00
+    D11    Round 5.00
+    D12    Round 6.00
+    D13    Round 1.28
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D14    Round 60.00
+    D15    Round 60.00
+    D16    Rectangle 39.37 X 59.06
+    D17    Rectangle 39.37 X 61.02
+    D18    Rectangle 31.50 X 47.24
+    D19    Rectangle 31.50 X 47.24  Rotation 90
+    D70    Round 32.00
+    D71    Round 15.00
+    D20    Round 10.00
+    D21    Round 25.00
+    D22    Round 30.00
+    D23    Round 40.00
+    D24    Round 19.69
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D25    Round 70.00
+    D26    Round 70.00
+    D27    Rectangle 49.37 X 69.06
+    D28    Rectangle 49.37 X 71.02
+    D29    Rectangle 41.50 X 57.24
+    D72    Rectangle 41.50 X 57.24  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    --------------------------------------------
+    D11    Round 5.00
+    D14    Round 60.00
+    D18    Rectangle 31.50 X 47.24
+    D70    Round 32.00
+    D71    Round 15.00
+    D20    Round 10.00
+    D21    Round 25.00
+    D22    Round 30.00
+    D23    Round 40.00
+    D73    Bullet 43.31 X 78.74  Rotation 180
+    D74    Round 43.31
+    D75    Bullet 43.31 X 78.74
+    D76    Round 50.00
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    --------------------------------------------
+    D25    Round 70.00
+    D29    Rectangle 41.50 X 57.24
+    D77    Bullet 53.31 X 88.74  Rotation 180
+    D78    Round 53.31
+    D79    Bullet 53.31 X 88.74
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 1.00
+    D11    Round 5.00
+    D12    Round 6.00
+    D13    Round 1.28
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Bottom Documentation.gbr
+
+    Layers:
+    ------------------------
+    Bottom Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.01600 in 25    B
+    T002  000.01969 in 5     C
+    T003  000.03500 in 49    A
+    ------------------------------------
+    Total              79
+    ------------------------------------
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    35    Y      100  Round A
+    16    Y      100  Round B
+    20    Y      100  Round C
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D80    Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\Gerbers 4\CanSat Revision 3 - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+
+End Of Report.

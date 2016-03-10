@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File:        C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\CanSat Revision 3 (PCB - Pour Copper Report).txt
+Report Written:     Sunday, February 28, 2016
+Design Path:        C:\Users\ahuja\Desktop\CanSat\Electronics\PCB DESIGN\CanSat Revision 3.pcb
+Design Title:       
+Created:            30/09/2014 20:49:37
+Last Saved:         23/02/2016 00:17:19
+Editing Time:       6323 min
+Units:              mm (precision 2)
+
+
+End Of Report.
